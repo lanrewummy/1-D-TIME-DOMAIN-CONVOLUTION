@@ -1,2 +1,3 @@
 # 1-D-TIME-DOMAIN-CONVOLUTION
 This project centered on deploying a specialized convolution circuit on the Zedboard, leveraging FPGA parallelism for improved performance in contrast to conventional microprocessors.
+The core of this project consists of a dynamic memory access controller and a high-throughput convolution pipeline. Convolution is a mathematical operation that combines two functions to produce a third, capturing the relationship between them. In digital signal processing, convolution is widely applied for tasks such as filtering, feature extraction, and pattern recognition in various applications, including image and audio processing.
